@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains codes and data related to ML.
+repository contains codes and data related to the ML Blogs
